@@ -1,0 +1,23 @@
+{
+    "age": 41,
+    "job": "blue-collar",
+    "marital": "married",
+    "education": "basic.6y",
+    "default": "no",
+    "housing": "no",
+    "loan": "no",
+    "contact": "cellular",
+    "month": "apr",
+    "day_of_week": "fri",
+    "duration": 412,
+    "campaign": 1,
+    "pdays": 999,
+    "previous": 1,
+    "poutcome": "failure",
+    "emp.var.rate": -1.8,
+    "cons.price.idx": 93.075,
+    "cons.conf.idx": -47.1,
+    "euribor3m": 1.405,
+    "nr.employed": 5099.1
+  }
+  
